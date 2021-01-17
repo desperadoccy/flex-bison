@@ -4,6 +4,7 @@
 
 int linenum;
 
+void showtitle();
 %}
 
 %%
